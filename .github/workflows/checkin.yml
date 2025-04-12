@@ -29,3 +29,4 @@ jobs:
           HOST: ${{ secrets.HOST }}
           EMAIL: ${{ secrets.EMAIL }}
           PASSWD: ${{ secrets.PASSWD }}
+
